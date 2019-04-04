@@ -1,10 +1,14 @@
 import java.util.Scanner;
 import java.util.Arrays;
-//This is BubbleSort programe.
-// Time complexcity
-// worst case:---> O(n^2)
-// Best case:---> O(n)
-// Avg case:---->O(n^2)
+/**
+*
+This is BubbleSort programe.
+Time complexcity
+worst case:---> O(n^2)
+Best case:---> O(n)
+Avg case:---->O(n^2)
+*
+**/
 class BubbleSort{
 	public static void main(String []args){
 		System.out.println("Enter a number to elements size: ");
